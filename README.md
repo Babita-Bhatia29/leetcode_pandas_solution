@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Babita-Bhatia29/leetcode_pandas_solution/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Babita-Bhatia29/leetcode_pandas_solution/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Babita-Bhatia29/leetcode_pandas_solution/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/Babita-Bhatia29/leetcode_pandas_solution/tree/master/0584-find-customer-referee) |
